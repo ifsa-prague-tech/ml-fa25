@@ -1,5 +1,5 @@
-# ml-sp25
+# ml-fa25
 
 ## Introduction to Machine Learning
 
-Fall 2025
+#### Fall 2025
